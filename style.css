@@ -1,0 +1,16 @@
+body{
+   background-image: url(ggg.png);
+   background-size: cover;
+}
+#footer{
+    position: fixed;
+    bottom: 0;
+    background-color: rgb(163, 163, 163);
+    width:100%
+
+}
+canvas{
+    background-color: aqua;
+    border: 5px solid antiquewhite;
+    
+}
